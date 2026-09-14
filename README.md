@@ -1,6 +1,8 @@
 ### Usage
 
 `crack <threads> <keysize> <target>`
+OR
+`bash test.sh`
 
 
 ### Description
